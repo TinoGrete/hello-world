@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
-hallo ich bin tino und will lernen wie man script schreibt
+hallo ich bin Tino und lerne gerade Python.
 
-zweiter versuch
